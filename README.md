@@ -15,7 +15,7 @@
 
 <div align="center">
   <h5>Outras redes que estou, vamos conversar!</h5>
-  <a href="https://https://www.linkedin.com/in/joãososter/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/joãososter/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
