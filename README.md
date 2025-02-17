@@ -1,1 +1,1 @@
-Ola, Me chamo Joao Soster
+Olá, Me chamo João Soster
