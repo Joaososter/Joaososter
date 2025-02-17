@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, me chamo Joao Soster!</h1>
+<h1 align="center">👋 Olá, me chamo João Soster!</h1>
 
 <h3 align="center">🚀 Tecnologias e Áreas de Interesse </h3>  
 <div align="center">
